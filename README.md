@@ -1,6 +1,6 @@
 # Node gRPC
 
-Esse projeto foi criado para demonstrar a criação de um client e um server gRPC com Node.
+Projeto de demonstração node + gRPC
 
 ## Instação dos pacotes
 Abra um terminal e execute o comando `npm install` 
